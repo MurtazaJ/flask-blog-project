@@ -1,3 +1,8 @@
+# Homework
+
+- Create blogs table in your local postgres database
+- Scrap at least 20 blog entries and insert to blogs table
+
 # How to install packages?
 
 - Create virtual environment
